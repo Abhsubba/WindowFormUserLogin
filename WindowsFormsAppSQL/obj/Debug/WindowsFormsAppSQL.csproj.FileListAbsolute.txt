@@ -1,0 +1,10 @@
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.exe.config
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.exe
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\bin\Debug\WindowsFormsAppSQL.pdb
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csprojAssemblyReference.cache
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.frmLogin.resources
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.frmMain.resources
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.Properties.Resources.resources
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.csproj.GenerateResource.cache
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.exe
+C:\Users\abhir\source\repos\WindowsFormsAppSQL\WindowsFormsAppSQL\obj\Debug\WindowsFormsAppSQL.pdb
